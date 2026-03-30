@@ -22,7 +22,7 @@ Nous avons implémenté une progression technique en cinq étapes pour stabilise
  L'expérience finale valide l'utilité pratique du modèle face à une pénurie de données (simulation avec seulement 2 000 images réelles). 
 *  **Résultat :** L'ajout d'images synthétiques générées par notre Conditional WGAN-GP a permis d'améliorer significativement la précision du classifieur.
 
-*(Insérer ici une image montrant la comparaison avant/après l'augmentation de données)*
+
 
 ## 🛠️ Environnement Technique
 *  **Langage & Frameworks :** Python 3.13.9, PyTorch, Torchvision.
